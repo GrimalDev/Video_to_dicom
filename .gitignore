@@ -1,0 +1,7 @@
+# Ignore large files
+resources/video/*
+resources/dicom_output/*
+resources/png_output/*
+*.dcm
+*.png
+*.mp4
